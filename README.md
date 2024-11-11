@@ -12,8 +12,6 @@
 ✅ Alteração de LOGO de Acordo com LIGHT e DARK: Logo ajustado conforme o tema.  
 ✅ Inserido no Kanban e Reformulado
 
-----
-
 ## 🚀 Versão 5.3.5 - 07/11/2024
 
 ✅ Correção da Data de Vencimento no Topo: A data agora permanece fixa.  
@@ -27,8 +25,6 @@
 ✅ Visualização de Tickets Fechados por Operador: Aba removida do painel de usuários.  
 ✅ Visualização de Grupos por Operador: Aba removida do painel de usuários.  
 ✅ Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro.
-
-----
 
 ## 🚀 Versão 5.2.6 - 31/08/2024
 
