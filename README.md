@@ -1,5 +1,19 @@
 # 📝 Log de Versões
 
+## 🚀 Versão 5.3.9 - XX/11/2024
+
+✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar.  
+✅ Correção de toastError.js: Problema resolvido no `toastError.js`.  
+✅ Validação do Número no ContactModal: Validação aprimorada.  
+✅ Atualização OpenAI: Atualização para versão "openai": "3.3.0" e wbotMessageListener.ts.  
+✅ Correção nas Avaliações de 1 para 5: Ajuste nas avaliações de 1 a 5 estrelas.  
+✅ Mensagem de Avaliação Somente Quando o Ticket Estiver em Atendimento: Avaliações só aparecem quando o ticket está ativo.  
+✅ Horários Intercalados: Implementação de horários intercalados.  
+✅ Alteração de LOGO de Acordo com LIGHT e DARK: Logo ajustado conforme o tema.  
+✅ Inserido no Kanban e Reformulado
+
+----
+
 ## 🚀 Versão 5.3.5 - 07/11/2024
 
 ✅ Correção da Data de Vencimento no Topo: A data agora permanece fixa.  
@@ -16,14 +30,14 @@
 
 ----
 
-## 🚀 Versão 3.5.9 - XX/11/2024
+## 🚀 Versão 5.2.6 - 31/08/2024
 
-✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar.  
-✅ Correção de toastError.js: Problema resolvido no `toastError.js`.  
-✅ Validação do Número no ContactModal: Validação aprimorada.  
-✅ Atualização OpenAI: Atualização para versão "openai": "3.3.0" e wbotMessageListener.ts.  
-✅ Correção nas Avaliações de 1 para 5: Ajuste nas avaliações de 1 a 5 estrelas.  
-✅ Mensagem de Avaliação Somente Quando o Ticket Estiver em Atendimento: Avaliações só aparecem quando o ticket está ativo.  
-✅ Horários Intercalados: Implementação de horários intercalados.  
-✅ Alteração de LOGO de Acordo com LIGHT e DARK: Logo ajustado conforme o tema.  
-✅ Inserido no Kanban e Reformulado
+✅ Fechar todos os tickets abertos ou em espera.
+✅ Reagir a uma mensagem.
+✅ Encaminhar mensagens para outro ticket.
+✅ Aparência do menu aprimorada.
+✅ Botão “Sair” adicionado ao menu.
+✅ Notificação quando uma mensagem é apagada no WhatsApp, informando no chat.
+✅ API atualizada.
+✅ Novo layout da página de login.
+✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome.
