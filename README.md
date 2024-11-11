@@ -37,3 +37,16 @@
 ✅ API atualizada.
 ✅ Novo layout da página de login.
 ✅ Indicação “Digitando” ou “Gravando” aparece no ticket, no canto inferior direito, ao lado do nome.
+
+## 24/07/2024
+
+✅ Fizemos correção no Vcard
+✅ Função de habilitar e desabilitar novos registros
+✅ Tempo de Trial disponível no Painel
+✅Respostas rápidas visualizadas por todos os usuários
+✅ Contatos agora aparece se é um número ok e o horário da última interação
+✅ Agora é possível ver o número que está conectado no Whaticket
+✅ Botão para reiniciar conexões adicionado
+✅ Alterar logo pelo Painel
+✅ Adicionado nova ABA Cadastrar Empresa
+✅ Add Opção Plano Interno
