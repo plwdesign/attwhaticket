@@ -26,8 +26,4 @@
 ✅ Mensagem de Avaliação Somente Quando o Ticket Estiver em Atendimento: Avaliações só aparecem quando o ticket está ativo.  
 ✅ Horários Intercalados: Implementação de horários intercalados.  
 ✅ Alteração de LOGO de Acordo com LIGHT e DARK: Logo ajustado conforme o tema.  
-✅ Inserido no Kanban e Reformulado:  
-   - Notas  
-   - Agendamentos  
-   - Reformulação da coluna no Kanban.
-TESTE
+✅ Inserido no Kanban e Reformulado
