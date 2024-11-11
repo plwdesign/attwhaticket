@@ -14,7 +14,7 @@
 ✅ Visualização de Grupos por Operador: Aba removida do painel de usuários.  
 ✅ Atualização Financeira após Alteração de Plano: Valor ajustado automaticamente na lista do Financeiro.
 
----
+----
 
 ## 🚀 Versão 3.5.9 - XX/11/2024
 
