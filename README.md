@@ -11,6 +11,9 @@
 ✅ Horários Intercalados: Implementação de horários intercalados.  
 ✅ Alteração de LOGO de Acordo com LIGHT e DARK: Logo ajustado conforme o tema.  
 ✅ Inserido no Kanban e Reformulado
+✅ Fix Audio no iPhone (Não estava reproduzindo)
+✅ Correção Chat no modo Dark
+✅ Inserido pastas por empresas na "public"
 
 ## 🚀 Versão 5.3.5 - 07/11/2024
 
