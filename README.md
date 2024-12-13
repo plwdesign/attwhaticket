@@ -1,6 +1,6 @@
 # 📝 Log de Versões
 
-## 🚀 Versão 5.3.9 - XX/11/2024
+## 🚀 Versão 5.5.0 - 13/11/2024 (13:17)
 
 ✅ Correção ao Redimensionar Área de Ticket: Erro corrigido ao redimensionar.  
 ✅ Correção de toastError.js: Problema resolvido no `toastError.js`.  
